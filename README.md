@@ -27,12 +27,15 @@ This repository documents my personal homelab, which I use to learn and experime
 | playit.gg | Allows my minecraft server to be available to the internet | Raspberry pi |
 
 ## Virtualization
-
-- AI and Robotic:
-  - Directly connected to The GPU
-  - It is used for personal AI projects and Robotic project involving Gazebo
+<ul>
+<li>AI and Robotic:
+  <ul>
+  <li>Directly connected to The GPU</li>
+  <li>It is used for personal AI projects and Robotic project involving Gazebo</li>
+  </ul>
+</li>
 - Hosting:
-  - Used for hosting webservers,email servers, Minecraft server, and jellyfin server
-
+    Used for hosting webservers,email servers, Minecraft server, and jellyfin server
+</ul>
 ## Architecture
 
