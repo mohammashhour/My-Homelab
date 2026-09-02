@@ -18,5 +18,6 @@ This repository documents my personal homelab, which I use to learn and experime
 | Tailscale | Allows me to access any of my services remotely when outside the network | Raspberry pi |
 | Uptime Kuma | Allows me to monitor the status of services to see if they are up or down | Raspberry pi |
 | Proxmox | Virtualization | Dell poweredge R620 |
-| Open WebUI | Allows  |
-| RAM | 128 GB |
+| Open WebUI | Running my local hosted LLM by ollama  | Dell poweredge R620 |
+| Crafty controller | Hosts my Minecraft server locally | Dell poweredge R620 |
+| playit.gg | Allows my minecraft server to be available to the internet | Raspberry pi |
