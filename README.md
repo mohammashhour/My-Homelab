@@ -23,8 +23,8 @@ This repository documents my personal homelab, which I use to learn and experime
 | Uptime Kuma | Allows me to monitor the status of services to see if they are up or down | Raspberry pi |
 | Proxmox | Virtualization | Dell poweredge R620 |
 | Open WebUI | Running my local hosted LLM by ollama  | Dell poweredge R620 |
-| Crafty controller | provides tunneling so the Minecraft server can be reachable without traditional port forwarding | Dell poweredge R620 |
-| playit.gg | Allows my minecraft server to be available to the internet | Raspberry pi |
+| Crafty Controller | Web-based management and hosting of Minecraft servers | Dell PowerEdge R620 |
+| playit.gg | Provides a public tunnel for the Minecraft server without traditional port forwarding | Raspberry Pi |
 
 ## Virtualization
 <ul>
@@ -42,3 +42,19 @@ This repository documents my personal homelab, which I use to learn and experime
 ## Architecture
 ![Network](pictures/Network.png)
 
+## Networking
+
+The homelab uses a local network with the Raspberry Pi providing several
+networking and monitoring services.
+
+### Remote Access
+- Tailscale is used for secure remote access to the homelab.
+- Services can be accessed remotely without exposing management ports
+  directly to the public internet.
+
+### DNS
+- Pi-hole provides local DNS filtering and ad/tracker blocking.
+
+### Minecraft
+- playit.gg provides a public tunnel for the Minecraft server,
+  avoiding traditional port forwarding.
