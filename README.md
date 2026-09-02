@@ -40,5 +40,5 @@ This repository documents my personal homelab, which I use to learn and experime
 </ul>
 
 ## Architecture
-
+![Network](pictures/Network.png)
 
