@@ -34,8 +34,11 @@ This repository documents my personal homelab, which I use to learn and experime
   <li>It is used for personal AI projects and Robotic project involving Gazebo</li>
   </ul>
 </li>
-- Hosting:
-    Used for hosting webservers,email servers, Minecraft server, and jellyfin server
+<li>Hosting:
+    <ul><li>Used for hosting webservers, email servers, database server, Minecraft server, and jellyfin server</li></ul>
+</li>
 </ul>
+
 ## Architecture
+
 
