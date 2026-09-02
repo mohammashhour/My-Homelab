@@ -26,5 +26,13 @@ This repository documents my personal homelab, which I use to learn and experime
 | Crafty controller | provides tunneling so the Minecraft server can be reachable without traditional port forwarding | Dell poweredge R620 |
 | playit.gg | Allows my minecraft server to be available to the internet | Raspberry pi |
 
+## Virtualization
+
+- AI and Robotic:
+  Directly connected to The GPU
+  It is used for personal AI projects and Robotic project involving Gazebo
+- Hosting:
+  Used for hosting webservers,email servers, Minecraft server, and jellyfin server
+
 ## Architecture
 
