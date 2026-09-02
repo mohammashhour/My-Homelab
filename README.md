@@ -29,10 +29,10 @@ This repository documents my personal homelab, which I use to learn and experime
 ## Virtualization
 
 - AI and Robotic:
-  Directly connected to The GPU
-  It is used for personal AI projects and Robotic project involving Gazebo
+  - Directly connected to The GPU
+  - It is used for personal AI projects and Robotic project involving Gazebo
 - Hosting:
-  Used for hosting webservers,email servers, Minecraft server, and jellyfin server
+  - Used for hosting webservers,email servers, Minecraft server, and jellyfin server
 
 ## Architecture
 
