@@ -25,6 +25,7 @@ This repository documents my personal homelab, which I use to learn and experime
 | Open WebUI | Running my local hosted LLM by ollama  | Dell poweredge R620 |
 | Crafty Controller | Web-based management and hosting of Minecraft servers | Dell PowerEdge R620 |
 | playit.gg | Provides a public tunnel for the Minecraft server without traditional port forwarding | Raspberry Pi |
+| [Glucose Monitor](https://github.com/mohammashhour/libredesktop) | Built by me and it allows me to monitor my blood sugar from my computer rather than having to use my phone  | Raspberry Pi |
 
 ## Virtualization
 <ul>
